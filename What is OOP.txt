@@ -1,0 +1,16 @@
+/*
+
+Abstraction: Rather than listing out each individual step, we can group 
+together commands so it can preform a single action as an function. This
+makes the code easier to understand, and organzied.
+
+Encapsulation: Controlling access and scope of various parts of your code.
+This can be done through properties, brackets, or accessors. Not only does 
+this help organize our code, but it also prevents us from accidentaly 
+modifying variables.
+
+Inheritance: When an object gains the methods and properties of it's parent. 
+
+Polymorphism: 
+
+*/
